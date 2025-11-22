@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-e938d495f828e01f8b260a487159f506 CMakeFiles/golden_spatula_autogen
-7d0d6e228af7b19e8e58f1bff10ba91f golden_spatula_autogen/timestamp
