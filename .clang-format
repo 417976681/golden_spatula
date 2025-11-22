@@ -1,0 +1,27 @@
+# Clang-Format Configuration for C++/Qt Project
+BasedOnStyle: Google
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 120
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortBlocksOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: false
+AlignAfterOpenBracket: Align
+SpacesBeforeTrailingComments: 2
+BreakBeforeBraces: Allman
+SpaceAfterTemplateKeyword: true
+PointerAlignment: Left
+SortIncludes: true
+IncludeBlocks: Preserve
+AccessModifierOffset: -2
+ConstructorInitializerIndentWidth: 4
+AlignConsecutiveAssignments: true
+
+# Qt-specific bonus options
+SpaceBeforeCtorInitializerColon: true
+QtNamespaceIndentation: true
+
+# Language support
+Language:        Cpp
+Standard:        Cpp11
