@@ -1,0 +1,5 @@
+E:/golden_spatula/golden_spatula/build/CMakeFiles/golden_spatula.dir
+E:/golden_spatula/golden_spatula/build/CMakeFiles/edit_cache.dir
+E:/golden_spatula/golden_spatula/build/CMakeFiles/rebuild_cache.dir
+E:/golden_spatula/golden_spatula/build/CMakeFiles/golden_spatula_autogen_timestamp_deps.dir
+E:/golden_spatula/golden_spatula/build/CMakeFiles/golden_spatula_autogen.dir

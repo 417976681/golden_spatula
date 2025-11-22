@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Qt App",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/golden_spatula.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "D:\\Qt\\qt6.7\\Tools\\mingw1120_64\\bin\\gdb.exe",
+            "visualizerFile": "c:\\Users\\Administrator\\AppData\\Roaming\\Code\\User\\workspaceStorage\\0b555663c4c9140b7e1c083d3997ed5f\\tonka3000.qtvsctools\\qt.natvis.xml"
+        }
+    ]
+}
