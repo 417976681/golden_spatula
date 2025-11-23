@@ -7,6 +7,7 @@
 *****************************************************************************/
 
 #include "../../../hero/one/rell.h"
+#include <QtGui/qtextcursor.h>
 #include <QtCore/qmetatype.h>
 
 #include <QtCore/qtmochelpers.h>

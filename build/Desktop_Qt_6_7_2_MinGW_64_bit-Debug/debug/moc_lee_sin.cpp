@@ -7,6 +7,7 @@
 *****************************************************************************/
 
 #include "../../../hero/five/lee_sin.h"
+#include <QtGui/qtextcursor.h>
 #include <QtCore/qmetatype.h>
 
 #include <QtCore/qtmochelpers.h>

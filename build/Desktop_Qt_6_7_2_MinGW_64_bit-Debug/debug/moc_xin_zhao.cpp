@@ -7,6 +7,7 @@
 *****************************************************************************/
 
 #include "../../../hero/two/xin_zhao.h"
+#include <QtGui/qtextcursor.h>
 #include <QtCore/qmetatype.h>
 
 #include <QtCore/qtmochelpers.h>
